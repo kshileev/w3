@@ -1,0 +1,12 @@
+.my_private {display: none;}
+.technology {display: none;}
+.cisco {display: none;}
+.old_project { display: none;}
+.width100 { width: 100%;}
+.no-border, .no-border th, .no-border td {border: none !important; }
+.width20 td {width: 20%; text-align: left;}
+.width20 th {text-align: left;}
+
+img.icon {width: 32px; height: 32px;}
+
+body {  background-color: lightblue;}
